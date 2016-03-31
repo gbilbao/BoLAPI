@@ -32,4 +32,4 @@
 
 * DrawEx
 
-`sprite:DrawEx(D3DRECT srcRect, D3DXVECTOR3 pCenter, D3DXVECTOR3 pPosition, BYTE Alpha)`
+`sprite:DrawEx(D3DRECT d3Rect, D3DXVECTOR3 pCenter, D3DXVECTOR3 pPosition, BYTE Alpha)`
